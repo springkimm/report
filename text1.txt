@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4EF8-39AA
+
+ Directory of C:\Users\di_support\Desktop\Infoblox cURL
+
+12/08/2018  19:01    <DIR>          .
+12/08/2018  19:01    <DIR>          ..
+12/08/2018  19:01                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  139,009,794,048 bytes free
